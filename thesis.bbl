@@ -1,0 +1,74 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\addcustomcontentsline
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{harden}
+P.~Adams, ``A `murder code' broken,'' \emph{San Francisco Chronicle}, aug 1969.
+
+\bibitem{bib1}
+N.~I. of~Science and Technology, ``Announcing the advanced encryption standard
+  (aes),'' \url{http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf},
+  2001, (Accessed on 10/30/2005).
+
+\bibitem{basa}
+P.~K. Basavaraju, ``Heuristic-search cryptanalysis of the zodiac~340 cipher,''
+  Master's thesis, San Jose State University, 2009.
+
+\bibitem{bib3}
+K.~Briggs, ``English and latin digram and trigram frequencies,''
+  \url{http://keithbriggs.info/documents/english_latin.pdf}, 2013, (Accessed on
+  07/28/2014).
+
+\bibitem{bib2}
+G.~Claston, ``340-cipher --- overview and examination,''
+  \url{http://www.zodiackiller.com/mba/zc/69.html}, 2008, (Accessed on
+  12/21/2010).
+
+\bibitem{glurk}
+Glurk, ``The final~18 symbols are nothing but filler!''
+  \url{http://www.zodiackillerfacts.com/forum/viewtopic.php?f=49&t=423}, 2005,
+  (Accessed on 05/01/2016).
+
+\bibitem{bib7}
+T.~Jakobsen, ``A fast method for the cryptanalysis of substitution ciphers,''
+  \emph{Cryptologia}, vol.~19, pp. 265--274, 1995.
+
+\bibitem{bib10}
+D.~Kreher and D.~Stinson, \emph{Combinatorial Algorithms: Generation,
+  Enumeration and Search}.\hskip 1em plus 0.5em minus 0.4em\relax CRC~Press,
+  1998.
+
+\bibitem{bib11}
+G.~Shanmugam, R.~M. Low, and M.~Stamp, ``Simple substitution distance and
+  metamorphic detection,'' \emph{Journal of Computer Virology and Hacking
+  Techniques}, vol.~9, no.~3, pp. 159--170, 2013.
+
+\bibitem{bibAC}
+M.~Stamp and R.~M. Low, \emph{Applied Cryptanalysis: Breaking Ciphers in the
+  Real World}.\hskip 1em plus 0.5em minus 0.4em\relax Wiley, 2006.
+
+\bibitem{bib17}
+M.~Stamp, \emph{Information Security: Principles and Practice}.\hskip 1em plus
+  0.5em minus 0.4em\relax Wiley, 2011.
+
+\bibitem{calderwood}
+D.~Calderwood, ``Crossing over with john edward,'' Jan 2000.
+
+\end{thebibliography}
