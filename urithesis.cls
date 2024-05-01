@@ -1127,7 +1127,7 @@ SAN JOS\'{E} STATE UNIVERSITY\\
   \pagestyle{empty}
   \input{\@abstract}
   \vspace{12pt}
-  \textbf{Keywords:}\ \textit{\mykeywords}.
+  \noindent\textbf{Keywords:}\ \textit{\mykeywords}.
 }}
 
 % Create anknowledgement page, counted, numbered.
