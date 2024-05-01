@@ -1127,6 +1127,7 @@ SAN JOS\'{E} STATE UNIVERSITY\\
   \pagestyle{empty}
   \input{\@abstract}
   \vspace{12pt}
+
   \noindent\textbf{Keywords:}\ \textit{\mykeywords}.
 }}
 
@@ -1384,6 +1385,9 @@ SAN JOS\'{E} STATE UNIVERSITY\\
 % after the final clearpage so it will not be buried in a lot of
 % other messages.
 \def\enddocument{%
+   \if@gotfirstappendix\else
+    \startappendix
+   \fi
    \let\AtEndDocument\@firstofone
    \@enddocumenthook
    \@checkend{document}%
